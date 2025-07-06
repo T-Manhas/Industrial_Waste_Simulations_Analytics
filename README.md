@@ -1,4 +1,4 @@
-Industrial Waste Simulations Analytics
+# Industrial Waste Simulations Analytics
 
 Objective:
 Develop a detailed waste management plan for an industrial process of your choice, integrating process optimization, material/energy balances, life cycle assessment (LCA), carbon footprint assessment (PCF), and cost-benefit analysis.
